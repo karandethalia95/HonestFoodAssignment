@@ -1,7 +1,7 @@
 To add multiple products in the cart :
 
-1.Open config.properties file , add product as product1,product2 and so on. The name of the product should be similar to as it is displayed on the website.
-2.Update the TotalProduct number as per the number of product you added.
+1.Open config.properties file , add product as product1=<product1_name>,product2=<product2_name> and so on. The name of the product should be similar to as it is displayed on the website.
+2.Update the TotalProduct number as per the number of product added.
 
 To add address :
 To add a new address than the given , you can update the address property in config.properties file.
